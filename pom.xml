@@ -15,7 +15,10 @@
         <tapestry.version>5.3.8</tapestry.version>
         <struts2.version>2.3.20</struts2.version>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-    </properties>
+     <sonar.organization>mahesh7788</sonar.organization>
+  <sonar.host.url>https://sonarcloud.io</sonar.host.url>
+</properties>
+         
 
     <modules>
         <module>todolist-core</module>
